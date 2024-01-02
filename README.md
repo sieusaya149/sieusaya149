@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Web Developer
 ---------------------
 
-I have nearly 2 years of experience as a software developer for an outsourcing company, primarily working with C++. Currently, I am engaged in personal projects related to Node.js. My career goal is to transition into a web backend developer role in the future and actively participate in large-scale projects to enhance my learning and skills.
+I have more than 2 years of experience as a software developer for an outsourcing company, primarily working with C++. Currently, I am engaged in personal projects related to Node.js. My career goal is to transition into a web backend developer role in the future and actively participate in large-scale projects to enhance my learning and skills.
 
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam
 * ✉️  You can contact me at [viethunghoang1999@gmail.com](mailto:viethunghoang1999@gmail.com)
